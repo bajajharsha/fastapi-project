@@ -1,0 +1,7 @@
+env/
+logs/
+app/api/__pycache__/
+app/auth/__pycache__/
+app/db/__pycache__/
+__pycache__/
+DS_Store
